@@ -1,5 +1,5 @@
 <script>
-const API_URL = `http://lvmolarn.sit.kmutt.ac.th:8080/api/date`
+const API_URL = `http://yourname.sit.kmutt.ac.th:8080/api/date`
 
 export default {
   data: () => ({
